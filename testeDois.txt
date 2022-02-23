@@ -1,0 +1,2 @@
+oi, esse é um teste. Quero ver se realmente funciona! Estou tão empolgado com essa primeira aula de Git. Vou tentar agora o gitCommit de novo, testei pela primeira vez e achei muito legal
+Estou editando isso pelo nano testeDois.txt; lets go!!! 
