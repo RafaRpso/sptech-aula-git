@@ -1,0 +1,7 @@
+if(Marco ==True){
+	print('Gosta de garotas de anime'); 
+
+}
+else{
+	print('Ele namora'); 
+}
